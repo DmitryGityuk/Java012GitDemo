@@ -4,4 +4,8 @@ public class Bean {
     public Bean(String value1){
         this.value1 = value1;
     }
+    
+    public int getvalue3(){
+        return value3;
+    }
 }
